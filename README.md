@@ -10,6 +10,7 @@ Data Cleaning (SQL):
 - Checked for missing or NULL values across all key fields
 - Aggregated total sales, gross sales, profit, and units sold
 - Created queries to analyze monthly and quarterly sales trends
+
 Data Visualization (Power BI):
 - Designed KPI cards for Total Sales, Gross Sales, Profit, and Units Sold
 - Added slicers for dynamic filtering by Segment, Country, and Date Range
